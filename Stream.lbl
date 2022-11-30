@@ -1,7 +1,11 @@
-﻿<RingingBloomLabel LabelVersion="1.0">
+<RingingBloomLabel LabelVersion="1.0">
   <Wem Key="675015626" Value="SILENCE [675015626]" />
   <Wem Key="594451280" Value="SILENCE(Almost) [594451280]" />
-
+  <Wem Key="637396007" Value="SILENCE(Almost) [637396007]" />
+  <Wem Key="1069438652" Value="SILENCE(Almost) [1069438652]" />
+  <Wem Key="37550844" Value="SILENCE(Almost) [37550844]" />
+  <Wem Key="336117824" Value="SILENCE(Almost) [336117824]" />
+  <Wem Key="611675084" Value="SILENCE(Almost) [611675084]" />
 
 
   <Wem Key="226703690" Value="Music - Ed Sheeran [226703690]" />
@@ -104,7 +108,7 @@
   <Wem Key="113768512" Value="Music - Gym(with cheering ;-;) [113768512]" />
   <Wem Key="287917381" Value="Music [287917381]" />
   <Wem Key="875219622" Value="Music - PokeCenter [875219622]" />
-  <Wem Key="401191789" Value="Music - Gym(Gym Challenge) [401191789]" />
+  <Wem Key="401191789" Value="Music - Gym(Gym Challenge, Loop) [401191789]" />
   <Wem Key="735079036" Value="Music - Battle [735079036]" />
   <Wem Key="323671857" Value="Music [323671857]" />
   <Wem Key="84395136" Value="Music [84395136]" />
@@ -162,7 +166,7 @@
   <Wem Key="787593022" Value="Music [787593022]" />
   <Wem Key="830156802" Value="Music [830156802]" />
   <Wem Key="121342777" Value="Music [121342777]" />
-  <Wem Key="409461644" Value="Music - Raid Defeated [409461644]" />
+  <Wem Key="409461644" Value="Music - Raid Defeated(Loop) [409461644]" />
   <Wem Key="588949901" Value="Music [588949901]" />
   <Wem Key="35450853" Value="Music [35450853]" />
   <Wem Key="85514024" Value="Music [85514024]" />
@@ -174,7 +178,45 @@
   <Wem Key="793101797" Value="Music [793101797]" />
   <Wem Key="829468322" Value="Music [829468322]" />
   <Wem Key="1027400870" Value="Music [1027400870]" />  
-
+  <Wem Key="588854947" Value="Music [588854947]" />
+  <Wem Key="632626116" Value="Music [632626116]" />
+  <Wem Key="618431176" Value="Music [618431176]" />
+  <Wem Key="312208400" Value="Music - Battle(Victory, Loop) [312208400]" />
+  <Wem Key="798327851" Value="Music [798327851]" />
+  <Wem Key="260551188" Value="Music [260551188]" />
+  <Wem Key="864029935" Value="Music - Battle [864029935]" />
+  <Wem Key="442083553" Value="Music [442083553]" />
+  <Wem Key="210994507" Value="Music [210994507]" />
+  <Wem Key="681228157" Value="Music [681228157]" />
+  <Wem Key="265693546" Value="Music [265693546]" />
+  <Wem Key="955426021" Value="Music [955426021]" />
+  <Wem Key="1000807943" Value="Music [1000807943]" />
+  <Wem Key="680064195" Value="Music [680064195]" />
+  <Wem Key="601256008" Value="Music [601256008]" />
+  <Wem Key="474365809" Value="Music - Raid Defeated(Start) [474365809]" />
+  <Wem Key="138140931" Value="Music [138140931]" />
+  <Wem Key="903242335" Value="Music [903242335]" />
+  <Wem Key="710907130" Value="Music [710907130]" />
+  <Wem Key="114752171" Value="Music [114752171]" />
+  <Wem Key="316394816" Value="Music - Terrastalize(Wild maybe, Sounds a bit long though) [316394816]" />
+  <Wem Key="412904207" Value="Music - Encounter(Vs. Trainer) [412904207]" />
+  <Wem Key="24386056" Value="Music - Battle(Vs. Elite 4, Start) [24386056]" />
+  <Wem Key="232032800" Value="Music - Battle(Vs. Titan) [232032800]" />
+  <Wem Key="242189753" Value="Music [242189753]" />
+  <Wem Key="95234558" Value="Music - De-Terrastalize [95234558]" />
+  <Wem Key="966788504" Value="Music [966788504]" />
+  <Wem Key="517597744" Value="Music [517597744]" />
+  <Wem Key="34520730" Value="Music - City(Start, Buggy Ending) [34520730]" />
+  <Wem Key="233822928" Value="Music - Gym(Gym Challenge, Start) [233822928]" />
+  <Wem Key="530364312" Value="Music [530364312]" />
+  <Wem Key="540017766" Value="Music [540017766]" />
+  <Wem Key="1059186300" Value="Music [1059186300]" />
+  <Wem Key="291971285" Value="Music - Terrastalize(Trainer maybe) [291971285]" />
+  <Wem Key="441792972" Value="Music - Terrastalize(Trainer maybe) [441792972]" />
+  <Wem Key="762963397" Value="Music - Terrastalize(Trainer maybe) [762963397]" />
+  <Wem Key="972628807" Value="Music [972628807]" />
+  <Wem Key="289022086" Value="Music [289022086]" />
+  <Wem Key="776391850" Value="Music - Title Screen SFX [776391850]" />
 
 
   <Wem Key="691810140" Value="Cutscene Music [691810140]" />
@@ -183,7 +225,10 @@
   <Wem Key="838689721" Value="Cutscene Music [838689721]" />
   <Wem Key="640148176" Value="Cutscene Music [640148176]" />
   <Wem Key="918805077" Value="Cutscene Music [918805077]" />
-
+  <Wem Key="801706239" Value="Cutscene Music [801706239]" />
+  <Wem Key="21475869" Value="Cutscene Music [21475869]" />
+  <Wem Key="951984735" Value="Cutscene Music [951984735]" />
+  <Wem Key="5878071" Value="Cutscene Music [5878071]" />
 
 
   <Wem Key="878276176" Value="Cutscene Seq - A truck crash or something [878276176]" />
@@ -199,22 +244,48 @@
   <Wem Key="452486170" Value="Cutscene Seq - Picnic's with Koraidon or Miraidon [452486170]" />
   <Wem Key="124367275" Value="Cutscene Seq [124367275]" />
   <Wem Key="96866202" Value="Cutscene Seq [96866202]" />
-  
+  <Wem Key="69631692" Value="Cutscene Seq [69631692]" />
+  <Wem Key="674546745" Value="Cutscene Seq [674546745]" />
+  <Wem Key="607618325" Value="Cutscene Seq [607618325]" />
+  <Wem Key="405004044" Value="Cutscene Seq [405004044]" />
+  <Wem Key="332578671" Value="Cutscene Seq [332578671]" />
+  <Wem Key="207035872" Value="Cutscene Seq [207035872]" />
+  <Wem Key="634295948" Value="Cutscene Seq [634295948]" />
+  <Wem Key="539386585" Value="Cutscene Seq [539386585]" />
+  <Wem Key="823739250" Value="Cutscene Seq - Koraidon is in this one [823739250]" />
 
 
   <Wem Key="895795799" Value="Cutscene SFX [895795799]" />
-
+  <Wem Key="1034710268" Value="Cutscene SFX [1034710268]" />
+  <Wem Key="141903375" Value="Cutscene SFX [141903375]" />
+  <Wem Key="373370005" Value="Cutscene SFX [373370005]" />
+  <Wem Key="428870335" Value="Cutscene SFX [428870335]" />
 
 
   <Wem Key="770015664" Value="Ambient SFX - Waves [770015664]" />
-
+  <Wem Key="734812019" Value="Ambient SFX [734812019]" />
+  <Wem Key="485893675" Value="Ambient SFX [485893675]" />
 
 
   <Wem Key="319284760" Value="Ambient Music [319284760]" />
   
 
-  
+
   <Wem Key="424239154" Value="SFX - Sparkly [424239154]" />
   <Wem Key="409324032" Value="SFX - Sparkly [409324032]" />
   <Wem Key="840467175" Value="SFX - Sparkly Shatter [840467175]" />
+  <Wem Key="158022397" Value="SFX [158022397]" />
+  <Wem Key="565211957" Value="SFX [565211957]" />
+  <Wem Key="673681096" Value="SFX [673681096]" />
+  <Wem Key="570328371" Value="SFX [570328371]" />
+  <Wem Key="490572118" Value="SFX [490572118]" />
+  <Wem Key="1040653905" Value="SFX - Sandwich Bite [1040653905]" />
+  <Wem Key="41085156" Value="SFX [41085156]" />
+  <Wem Key="432724667" Value="SFX [432724667]" />
+  <Wem Key="63784925" Value="SFX [63784925]" />
+  <Wem Key="880887367" Value="SFX [880887367]" />
+  <Wem Key="55958443" Value="SFX [55958443]" />
+
+
+
 </RingingBloomLabel>
